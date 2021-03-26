@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace MyMicroService.Controllers
+namespace MyMicroservice.Controllers
 {
     [ApiController]
     [Route("[controller]")]

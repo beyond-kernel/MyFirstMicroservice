@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/MyMicroService/MyMicroService.csproj",
+                "${workspaceFolder}/MyMicroservice/MyMicroservice.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/MyMicroService/MyMicroService.csproj",
+                "${workspaceFolder}/MyMicroservice/MyMicroservice.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -32,7 +32,7 @@
             "args": [
                 "watch",
                 "run",
-                "${workspaceFolder}/MyMicroService/MyMicroService.csproj",
+                "${workspaceFolder}/MyMicroservice/MyMicroservice.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],

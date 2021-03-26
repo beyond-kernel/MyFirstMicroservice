@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\MyMicroService.csproj",
+  "FilePath": "c:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\MyMicroservice.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15722,7 +15722,7 @@
     ],
     "CSharpLanguageVersion": 900
   },
-  "RootNamespace": "MyMicroService",
+  "RootNamespace": "MyMicroservice",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

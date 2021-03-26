@@ -32,7 +32,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MyMicroService/1.0.0": {
+      "MyMicroservice/1.0.0": {
         "dependencies": {
           "Swashbuckle.AspNetCore": "5.6.3",
           "Microsoft.AspNetCore.Antiforgery": "6.0.0.0",
@@ -321,10 +321,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "MyMicroService.dll": {}
+          "MyMicroservice.dll": {}
         },
         "compile": {
-          "MyMicroService.dll": {}
+          "MyMicroservice.dll": {}
         }
       },
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {},
@@ -2093,7 +2093,7 @@
     }
   },
   "libraries": {
-    "MyMicroService/1.0.0": {
+    "MyMicroservice/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

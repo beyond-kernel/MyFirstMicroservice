@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\MyMicroService.csproj": {}
+    "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\MyMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\MyMicroService.csproj": {
+    "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\MyMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\MyMicroService.csproj",
-        "projectName": "MyMicroService",
-        "projectPath": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\MyMicroService.csproj",
+        "projectUniqueName": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\MyMicroservice.csproj",
+        "projectName": "MyMicroservice",
+        "projectPath": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\MyMicroservice.csproj",
         "packagesPath": "C:\\Users\\rafan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroService\\obj\\",
+        "outputPath": "C:\\Users\\rafan\\OneDrive\\MyFirstMicroService\\MyMicroservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
